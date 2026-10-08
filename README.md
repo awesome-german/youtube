@@ -97,6 +97,12 @@ Other helpful resources for learning German.
 - [DW Learn German](https://www.dw.com/en/learn-german/s-2469) - Comprehensive learning materials from Deutsche Welle.
 - [r/German](https://www.reddit.com/r/German/) - Active Reddit community for German learners.
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
@@ -106,3 +112,23 @@ If you have suggestions for great German learning YouTube channels that should b
 ---
 
 **Note**: This is a community-maintained list. Channel availability and content may change over time.
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [podcasts](https://github.com/awesome-german/podcasts): Curated list of the best podcasts to learn, practice, and enjoy German through real conversation and culture.
+- [movies](https://github.com/awesome-german/movies): Top German films and TV series for immersive learning through culture, dialogue, and subtitles.
+- [communities](https://github.com/awesome-german/communities): Online and offline German learning communities for discussion, support, and collaboration.
+- [pronunciation](https://github.com/awesome-german/pronunciation): Guides, phonetic tools, and speaking exercises to achieve clear and natural German pronunciation.
+- [kids](https://github.com/awesome-german/kids): Fun and interactive German learning materials designed specifically for children and beginners.
+
+<!-- END gh-mutual-linking -->
